@@ -110,7 +110,7 @@ class Game extends React.Component {
         }
         return (
             <div className="game">
-                <h1>This is a test text</h1>
+                <h1>This is a develop branch text</h1>
                 <div className="game-board">
                     <Board
                         squares = {current.squares}
